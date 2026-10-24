@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "reproducedEmptyEntrypointExit0": true,
+  "recompiledWithNodeWrites": true,
+  "buildVerification": "Build artifacts verified: 18",
+  "startup": "ARSTT running on 127.0.0.1:4399. Local, single-operator assessment environment.",
+  "html": true,
+  "modelLoaded": true,
+  "jobs": [
+    {
+      "id": "a7e96847-aa06-4186-a2c8-2fcaf9c46271",
+      "tool": "headers",
+      "status": "completed",
+      "findings": 4
+    },
+    {
+      "id": "d7d770c2-0d0c-436d-b63b-afbc99190cb6",
+      "tool": "nmap",
+      "status": "completed",
+      "findings": 1
+    }
+  ]
+}
