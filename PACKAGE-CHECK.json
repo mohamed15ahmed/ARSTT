@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "filesVerified": 104,
+  "zipCRC": true,
+  "packagedModelLoaded": true,
+  "packagedBuiltUIAndAPIStarted": true,
+  "dependencyNote": "Smoke check reuses exact locked installed npm tree; clean npm ci also passed during final Docker build."
+}
